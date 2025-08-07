@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/LeetCode-Problems/CopilotIndices/17.13.444.19527
+/.vs/LeetCode-Problems/FileContentIndex
+/.vs/LeetCode-Problems/v17/TestStore/0/000.testlog
+/.vs/LeetCode-Problems/v17/TestStore/0/testlog.manifest
+/.vs/slnx.sqlite
+/.vs/LeetCode-Problems
+/.vs
+/1.Two Sum/.vs/1.Two Sum
+/1.Two Sum/obj/Debug/net8.0
