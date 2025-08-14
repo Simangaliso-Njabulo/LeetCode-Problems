@@ -8,6 +8,9 @@ https://leetcode.com/problems/two-sum/description/
 # My Plan
 1. For each index, add it with the other indexes one by one and evalute if you reach the target.
 
+# Best Solution
+https://www.youtube.com/watch?v=WB2SZ3_QK28&t=1s
+
 
 
 
